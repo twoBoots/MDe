@@ -12,20 +12,27 @@ Not all h1's are the same.
 
 ## Installation
 
-```
+```bash
 npm install marked mde --save
 ```
 
 ## Usage
 
-```
+```javascript
 var marked =  require('marked');
 
-var renderer = require('mde')(new marked.Renderer());
+var renderer = require('mde')(new marked.Renderer()[, options]);
 
 marked.setOptions({
   renderer: renderer
 });
+```
+
+#### options
+```javascript
+{
+  linksInCode: true
+}
 ```
 
 ### Shorthand
