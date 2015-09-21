@@ -1,0 +1,28 @@
+{
+  "name": "mde",
+  "version": "0.1.0",
+  "description": "Markdown extended",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/twoBoots/MDe.git"
+  },
+  "keywords": [
+    "markdown",
+    "marked",
+    "extension",
+    "class",
+    "id",
+    "name",
+    "html"
+  ],
+  "author": "Andrew Mitchell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/twoBoots/MDe/issues"
+  },
+  "homepage": "https://github.com/twoBoots/MDe#readme"
+}
