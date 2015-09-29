@@ -13,7 +13,7 @@ Not all h1's are the same.
 ## Installation
 
 ```bash
-npm install marked mde --save
+npm install marked twoBoots/mde --save
 ```
 
 ## Usage
@@ -39,7 +39,7 @@ marked.setOptions({
 
 `# Heading {#headingID.headingClass1.headingClass2}`
 
-`My paragraph that has text to be hated by everyone everywhere {.msComicSans}`
+`A paragraph with text to be hated by everyone everywhere {.msComicSans}`
 
 ### Longhand
 **TODO**
