@@ -42,4 +42,7 @@ marked.setOptions({
 `A paragraph with text to be hated by everyone everywhere {.msComicSans}`
 
 ### Longhand
-**TODO**
+
+`# Heading {"style":"color:tomato;"}`
+
+`DO A FLIP {"style":"transform:rotate(360deg);"}`
